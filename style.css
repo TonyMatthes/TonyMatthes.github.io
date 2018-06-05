@@ -22,7 +22,7 @@ h1{
 }
 
 img {
-  maxwidth: 35%;
+  max-width: 40%;
   height: auto;
   float: right;
 }
