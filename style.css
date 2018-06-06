@@ -2,6 +2,13 @@ body{
   background: lightblue;
 }
 
+container {
+  margin-top: 20px;
+  margin-right: 200px;
+  margin-bottom: 2px;
+  margin-left: 200px;
+}
+
 img {
   max-width: 20%;
   height: auto;
