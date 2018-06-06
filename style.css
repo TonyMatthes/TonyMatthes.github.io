@@ -1,8 +1,6 @@
 body{
-  border-radius: 25px;
-  background-color: lightblue;
-  padding: 5%
-}
+  font: 16px, arial, Sans-Serif;
+  background: lightblue url(sun_pattern.png);
 
 header{
   font-size:
@@ -17,7 +15,7 @@ h1{
   font-size: 3em
 }
 
-#content-contact{
+.content-contact{
   font-size:
 }
 
