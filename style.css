@@ -1,14 +1,33 @@
 body {
   background-image: url(sun-pattern.png);
+  font-family: Arial; sans-serif
 }
 
 #container {
   width: 800px;
   margin: 40px auto 80px;
+  background-color:#6638953d;
+  padding: 10px 50px 10px 50px;
+  border-radius: 15px;
 }
 
 img {
-  max-width: 35%;
+  max-width: 30%;
   height: auto;
   float: right;
+}
+
+h1{
+  font-size: 3em;
+  border-bottom: 2px solid
+}
+
+h2{
+  font-size: 1em;
+  margin: auto
+}
+
+.block-date{
+  float: right;
+  display: inline-flex;
 }
