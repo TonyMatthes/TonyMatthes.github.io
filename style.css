@@ -27,7 +27,10 @@ h2{
   margin: auto
 }
 
-.block-date{
-  float: right;
-  display: inline-flex;
+.date{
+  float:right;
+}
+
+h3{
+  border-bottom: 2px solid;
 }
