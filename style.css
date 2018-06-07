@@ -8,13 +8,14 @@ body {
   margin: 40px auto 80px;
   background-color:#49a2c14f;
   padding: 10px 50px 10px 50px;
-  border-radius: 15px;
+  border-radius: 15px
 }
 
 img {
   max-width: 30%;
   height: auto;
   float: right;
+  border-radius: 15px;
 }
 
 h1{
