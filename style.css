@@ -6,7 +6,7 @@ body {
 #container {
   width: 800px;
   margin: 40px auto 80px;
-  background-color:#6638953d;
+  background-image: background.jpg;
   padding: 10px 50px 10px 50px;
   border-radius: 15px;
 }
