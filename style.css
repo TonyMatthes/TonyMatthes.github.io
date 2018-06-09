@@ -15,7 +15,8 @@ img {
   max-width: 30%;
   height: auto;
   float: right;
-  border-radius: 15px;
+  border: 2px solid black;
+  border-radius: 20px;
 }
 
 h1{
@@ -30,14 +31,14 @@ h2{
 
 #content-summary{
   margin: 0 0 16px 0;
-    padding: 0 0 32px 0;
-    font-style: italic;
-    font-size: 1.2em;
+  padding: 0 0 32px 0;
+  font-style: italic;
+  font-size: 1.2em;
 }
 
 .header-section{
   font-size: 2em;
- 
+  border-bottom: solid 2px;
 }
 
 .date{
@@ -45,5 +46,11 @@ h2{
 }
 
 h3{
-  border-bottom: 2px solid;
+  font-style:italic;
+  border-bottom: 1px dashed;
+  padding: 0 0 5px 10px;
+}
+
+h4{
+  padding: 0 0 0 25px;
 }
