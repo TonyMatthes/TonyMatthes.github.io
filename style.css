@@ -1,6 +1,6 @@
 body {
   background-image: url(sun-pattern.png);
-  font-family: Arial; sans-serif
+  font-family: Georgia; sans-serif
 }
 
 #container {
@@ -12,7 +12,7 @@ body {
 }
 
 img {
-  max-width: 30%;
+  max-width: 35%;
   height: auto;
   float: right;
   border: 2px solid black;
@@ -33,7 +33,7 @@ h2{
   margin: 0 0 16px 0;
   padding: 0 0 32px 0;
   font-style: italic;
-  font-size: 1.2em;
+  font-size: 1.5em;
 }
 
 .header-section{
